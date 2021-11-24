@@ -1,0 +1,44 @@
+#title {}
+#main {
+    background-color:lightyellow;
+    color:grey;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: auto;
+    font-family: monospace | cursive;
+}
+#img-div {
+    background-color: white;
+    width: 75%;
+    height: 75%;
+    margin: 0% 10% 0% 10%;
+}
+#image {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+}
+#img-caption {
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    align-items: center;
+}
+#tribute-info {}
+#table{}
+#wikilink {
+    background-color: lightyellow;
+    color: black;
+    text-align: center;
+    font-size: 22px;
+}
+#tribute-link {}
+.main {
+    padding-left: 10%;
+    padding-right: 15%;
+    text-align: justify;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
